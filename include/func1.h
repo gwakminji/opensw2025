@@ -2,6 +2,6 @@
 #define FUNC1_H
 
 #include <stdio.h>
-void func1();
+void foo();
 
 #endif
