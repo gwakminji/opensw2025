@@ -3,3 +3,11 @@
 void foo(){
     printf("Hello foo.\n");
 }
+
+void foofoo(){
+    printf("Hello foo foo.\n");
+}
+
+void foofoofoo(){
+    printf("Hello foo foo foo.\n");
+}

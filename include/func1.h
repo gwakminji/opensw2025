@@ -3,5 +3,7 @@
 
 #include <stdio.h>
 void foo();
+void foofoo(void);
+void foofoofoo(void);
 
 #endif
